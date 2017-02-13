@@ -380,11 +380,11 @@
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
-                    "inheritItemSettings": true,
+                    "inheritItemSettings": false,
                     "m_originalParentID": "560e7a25-c3fc-42d3-8d0e-15642e622fc2",
                     "m_serialiseFrozen": false,
                     "name": "inst_27BDC3DE",
-                    "x": 544,
+                    "x": 608,
                     "y": 288,
                     "IsDnD": false,
                     "colour": {
