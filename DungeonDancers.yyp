@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "6f520b64-73ff-445e-83f6-37403c31cee5",
+            "Value": {
+                "id": "97c830cb-1355-4eb5-9b71-e7f533e32a72",
+                "resourcePath": "rooms\\CurialRoom\\CurialRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "70eaeb28-dcf9-43f5-a485-03b66f917442",
             "Value": {
                 "id": "74824ce9-a227-4d23-84db-9d45ae5c271a",
@@ -620,6 +628,14 @@
                 "id": "57a1833f-d6d4-41e4-907b-589b63cff4bf",
                 "resourcePath": "sprites\\spr_BeatDot\\spr_BeatDot.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1f74cfb-bd95-4bb7-aef5-231bc5f4c787",
+            "Value": {
+                "id": "4944810f-9da1-41d6-8a42-f2df8974a977",
+                "resourcePath": "views\\19652674-4ec1-4f15-b2a9-dbc68b761780-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
