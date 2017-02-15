@@ -38,7 +38,6 @@
         "3354f620-a3d6-4c9e-9d9b-5c5a412133ce",
         "ce386336-7ab2-47d5-8977-92b0e825a0a4",
         "bd194fb7-35b8-4218-bf89-799068bb8d4a",
-        "388846ad-32dd-4bf3-a3d3-344f72713d56",
         "04f0c137-132f-48fb-8fb1-d6faf59a8dea",
         "46f36f33-6f2c-4367-956c-917f78dccd72",
         "c4bc2f66-4532-4aa6-b7d3-a3892587dd4f",
@@ -56,7 +55,8 @@
         "d4c7d2f4-7ef3-48ac-976f-70d7d718b008",
         "a03896dd-5d75-4e0b-8200-8ea6883fcbf6",
         "b0e3bb33-eeb2-4043-b8ce-99d66f814a65",
-        "cee4161f-769d-44b3-998b-552b13130cf4"
+        "cee4161f-769d-44b3-998b-552b13130cf4",
+        "34271994-4373-4b78-9f62-03d453ede08f"
     ],
     "layers": [
         {
@@ -1512,14 +1512,14 @@
             "visible": true,
             "instances": [
                 {
-                    "id": "388846ad-32dd-4bf3-a3d3-344f72713d56",
+                    "id": "34271994-4373-4b78-9f62-03d453ede08f",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
-                    "m_originalParentID": "6a3285d5-62ff-42e2-bdc0-a84102ab7e98",
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_5D1103C9",
+                    "name": "inst_1A6B953F",
                     "x": 480,
                     "y": 416,
                     "IsDnD": false,
@@ -1529,8 +1529,8 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_5D1103C9",
-                    "objId": "e7ba2fac-7de9-4bed-a90b-d88506b47454",
+                    "name_with_no_file_rename": "inst_1A6B953F",
+                    "objId": "64117a39-144b-4449-8179-de6832e00937",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -2486,16 +2486,16 @@
             "hborder": 32,
             "hport": 720,
             "hspeed": -1,
-            "hview": 720,
+            "hview": 540,
             "inherit": false,
             "objId": "00000000-0000-0000-0000-000000000000",
             "vborder": 32,
             "visible": true,
             "vspeed": -1,
             "wport": 1280,
-            "wview": 1280,
+            "wview": 960,
             "xport": 0,
-            "xview": 0,
+            "xview": 128,
             "yport": 0,
             "yview": 0
         },
