@@ -4,7 +4,7 @@
 global.ALL_AUDIO_GROUPS_LOADED = false;
 
 AudioGroupsLoaded = 0;
-AudioGroupsToLoad = load_audio_groups(World_1, SFX);
+AudioGroupsToLoad = load_audio_groups(AudioGroupWorld_1, SFX);
 
 sg = audio_create_sync_group(true);
 
