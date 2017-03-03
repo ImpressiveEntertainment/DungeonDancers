@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "25a6ebca-07b4-47a2-af04-c9293cffefc6",
+            "Value": {
+                "id": "8d9e2984-3dae-4908-a56e-25acb978732d",
+                "resourcePath": "rooms\\World_1_Level_1\\World_1_Level_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "26ae92c9-d457-445b-a0c5-f4538e71db71",
             "Value": {
                 "id": "638a6783-5ae1-4910-a695-0de4d7b23773",
@@ -610,7 +618,7 @@
             "Key": "b811718a-4186-499e-a7d3-caa468850f2f",
             "Value": {
                 "id": "9bb053ed-d3cd-484e-a611-948cc03f32a4",
-                "resourcePath": "rooms\\World_1_Level_1\\World_1_Level_1.yy",
+                "resourcePath": "rooms\\World_1_Level_1_b\\World_1_Level_1_b.yy",
                 "resourceType": "GMRoom"
             }
         },

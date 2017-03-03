@@ -2,7 +2,7 @@
     "id": "25a6ebca-07b4-47a2-af04-c9293cffefc6",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "World_1_Level_1",
+    "name": "World_1_Level_1_b_1",
     "IsDnD": false,
     "creationCodeFile": "",
     "inheritCode": false,
