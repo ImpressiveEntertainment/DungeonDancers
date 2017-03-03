@@ -20,9 +20,9 @@ if(_type == "audiogroup_load")
 		
 		global.ALL_AUDIO_GROUPS_LOADED = true;
 		
-		audio_play_in_sync_group(sg, Kick);
-		audio_play_in_sync_group(sg, Snare);
-		audio_play_in_sync_group(sg, Hat);
-		//audio_play_in_sync_group(sg, Clap);
+		audio_play_in_sync_group(sg, snd_W1_MasterTrack);
+		audio_play_in_sync_group(sg, snd_W1_Track_1);
+		audio_play_in_sync_group(sg, snd_W1_Track_2);
+		audio_play_in_sync_group(sg, snd_W1_Track_3);
 	}
 }
