@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "514189d3-90c7-4c5f-bd69-d5454ebcd180",
+            "Value": {
+                "id": "0802500b-cab1-4521-9d2f-b816acd0d92f",
+                "resourcePath": "views\\514189d3-90c7-4c5f-bd69-d5454ebcd180.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "545fbe6b-c5e5-4b6f-8292-8a91e4caa03a",
             "Value": {
                 "id": "5c91f424-0db8-4dc2-90d9-5a2f92a237e8",
@@ -363,6 +371,14 @@
             "Value": {
                 "id": "51fc9123-5db5-4b9a-ac84-6ded0708b50d",
                 "resourcePath": "objects\\obj_SpikeTrap\\obj_SpikeTrap.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c3fbb1b-c5f4-49ed-90fe-dac28f51b4b8",
+            "Value": {
+                "id": "879d1f18-8970-4127-9e89-4a07daf23096",
+                "resourcePath": "objects\\obj_initGameController\\obj_initGameController.yy",
                 "resourceType": "GMObject"
             }
         },

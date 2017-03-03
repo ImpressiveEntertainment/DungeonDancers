@@ -1,4 +1,4 @@
-/// @desc Check for player's current spot
+/// @desc Check for player's current spot to determine if it's a safe one or not
 
 var _collisionObjects	= par_Traps;
 var _placeX				= x;
