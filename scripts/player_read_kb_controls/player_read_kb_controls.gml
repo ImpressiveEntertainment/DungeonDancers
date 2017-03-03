@@ -2,33 +2,33 @@
 
 if(keyboard_key)
 {
-	var upKey		= keyboard_check_pressed(vk_up);
-	var rightKey	= keyboard_check_pressed(vk_right);
-	var downKey		= keyboard_check_pressed(vk_down);
-	var leftKey		= keyboard_check_pressed(vk_left);
+	var _upKey		= keyboard_check_pressed(vk_up);
+	var _rightKey	= keyboard_check_pressed(vk_right);
+	var _downKey		= keyboard_check_pressed(vk_down);
+	var _leftKey		= keyboard_check_pressed(vk_left);
 	
-	var playerDirection = 0;
+	var _playerDirection = 0;
     
-	if(upKey)
-		playerDirection = 1;
-	if(rightKey)
-		playerDirection = 2;
-	if(downKey)
-		playerDirection = 3;
-	if(leftKey)
-		playerDirection = 4;
+	if(_upKey)
+		_playerDirection = 1;
+	if(_rightKey)
+		_playerDirection = 2;
+	if(_downKey)
+		_playerDirection = 3;
+	if(_leftKey)
+		_playerDirection = 4;
 	
-	if(playerDirection != 0)
+	if(_playerDirection != 0)
 	{
-		var notePosition	= (global.ELAPSED_TIME * (global.SONG_BPM * (1 / 60))) * 1;
-		var accuracyMargin	= global.ACCURACY_MARGIN;
-		var playerAccuracy	= 1 - frac(notePosition);
+		var _notePosition	= (global.ELAPSED_TIME * (global.SONG_BPM * (1 / 60))) * 1;
+		var _accuracyMargin	= global.ACCURACY_MARGIN;
+		var _playerAccuracy	= 1 - frac(_notePosition);
 		
-		if(playerAccuracy == 0)
-			playerAccuracy = 1;
+		if(_playerAccuracy == 0)
+			_playerAccuracy = 1;
 		
-		if(playerAccuracy >= (1 - accuracyMargin) && playerAccuracy <= 1) || (playerAccuracy >= 0 && playerAccuracy <= accuracyMargin)
-			player_check_place_free(playerDirection);
+		if(_playerAccuracy >= (1 - _accuracyMargin) && _playerAccuracy <= 1) || (_playerAccuracy >= 0 && _playerAccuracy <= _accuracyMargin)
+			player_check_place_free(_playerDirection);
 		else
 			player_miss();
 	}

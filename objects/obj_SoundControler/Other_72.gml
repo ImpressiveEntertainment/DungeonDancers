@@ -19,5 +19,10 @@ if(_type == "audiogroup_load")
 		trace("All audio groups have been loaded!!!");
 		
 		global.ALL_AUDIO_GROUPS_LOADED = true;
+		
+		audio_play_in_sync_group(sg, Kick);
+		audio_play_in_sync_group(sg, Snare);
+		audio_play_in_sync_group(sg, Hat);
+		//audio_play_in_sync_group(sg, Clap);
 	}
 }

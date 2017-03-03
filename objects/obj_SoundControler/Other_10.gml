@@ -1,6 +1,7 @@
 /// @description SET / RESET SETTINGS
 
-audio_stop_sound(global.SONG_TO_PLAY);
+//audio_stop_sound(global.SONG_TO_PLAY);
+audio_stop_sync_group(sg);
 
 // RESET SONG SETTINGS //
 global.SONG_IS_PLAYING		= false;
@@ -12,11 +13,11 @@ global.SONG_POSITION_ADJUST	= 0;
 
 // RESET BEAT SETTINGS //
 global.ON_BEAT				= false;
-global.NOTE_TYPE			= 0.25;
-global.BEAT_TIME			= global.NOTE_TYPE / global.SONG_BPS;
+global.NOTE_TYPE			= 16;
+global.BEAT_TIME			= global.SONG_BPS / global.NOTE_TYPE;
 global.CURRENT_BEAT_TIME	= 0;
 global.NEXT_BEAT_TIME		= 0;
-global.BEAT_POSITION		= -1;
+global.BEAT_POSITION		= 0;
 
 // RESET GLOBAL SETTINGS //
 global.ELAPSED_TIME			= 0;
