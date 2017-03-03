@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "8e883fb8-7028-4377-8733-53c2dc45e575",
+            "Value": {
+                "id": "c1a86de3-bd62-4757-937a-61a12bfaff13",
+                "resourcePath": "objects\\obj_CurialGay\\obj_CurialGay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "98c8380e-5e6d-4509-91e9-2134043484e0",
             "Value": {
                 "id": "ff12ed4d-acd5-4cdb-8ba0-2088bf34bff8",
@@ -731,6 +739,14 @@
             "Value": {
                 "id": "a0af6fdf-3562-41e7-a2e1-83a00c668825",
                 "resourcePath": "views\\ddbea9e6-fac3-4eb4-94b0-f39e3952d1ba.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de88920d-9197-485b-89f3-d12e5626f498",
+            "Value": {
+                "id": "3898af58-b911-479e-b5ea-357cacea3d8a",
+                "resourcePath": "views\\de88920d-9197-485b-89f3-d12e5626f498.yy",
                 "resourceType": "GMFolder"
             }
         },
