@@ -28,10 +28,7 @@ if(keyboard_key)
 			playerAccuracy = 1;
 		
 		if(playerAccuracy >= (1 - accuracyMargin) && playerAccuracy <= 1) || (playerAccuracy >= 0 && playerAccuracy <= accuracyMargin)
-		{
 			player_check_place_free(playerDirection);
-			sprite_index = s_PlayerJump;
-		}
 		else
 			player_miss();
 	}
