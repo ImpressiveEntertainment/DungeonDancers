@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "06ed0a05-37d3-4cc6-b80d-f93fecaa65d1",
+            "Value": {
+                "id": "50ca7160-76ea-4c3a-ac51-7b8e455eee14",
+                "resourcePath": "views\\06ed0a05-37d3-4cc6-b80d-f93fecaa65d1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "08a5bea8-7a63-4012-97ad-9ce927e6857d",
             "Value": {
                 "id": "c8da6a96-c757-4dcb-bd48-62f467f0fb8a",
@@ -359,6 +367,14 @@
             }
         },
         {
+            "Key": "642c9ad0-5d3f-446e-ac9d-5bf9cafb15b1",
+            "Value": {
+                "id": "65a5108a-d3a9-4dcb-836d-575018f80f5e",
+                "resourcePath": "sprites\\spr_TimeBarEditor\\spr_TimeBarEditor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67f250d9-b9f9-46a0-ac94-842b2541890b",
             "Value": {
                 "id": "5803212c-722c-48e1-ae0a-12b1bd643ff3",
@@ -404,6 +420,14 @@
                 "id": "74824ce9-a227-4d23-84db-9d45ae5c271a",
                 "resourcePath": "objects\\par_Obstacles\\par_Obstacles.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71bde6f4-4c52-4a69-a8b4-6a8a4d0feaf9",
+            "Value": {
+                "id": "0d7ab920-ea55-42ce-b875-973b291d8898",
+                "resourcePath": "rooms\\RoomInitGame\\RoomInitGame.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -532,6 +556,14 @@
                 "id": "6df2c5c2-e6c4-46d3-8337-d5900686e7a4",
                 "resourcePath": "sprites\\spr_Walls\\spr_Walls.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a488034a-f199-4a45-965a-e05a4dbf94e9",
+            "Value": {
+                "id": "4e6d37df-50ba-4f9d-9f42-07402d552497",
+                "resourcePath": "objects\\obj_InitGameController\\obj_InitGameController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -716,6 +748,14 @@
                 "id": "4944810f-9da1-41d6-8a42-f2df8974a977",
                 "resourcePath": "views\\19652674-4ec1-4f15-b2a9-dbc68b761780-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e2e9b385-66b3-43b9-be91-af2bb0aacbac",
+            "Value": {
+                "id": "65dced60-57da-4d26-881e-80fdc09d00f4",
+                "resourcePath": "sprites\\spr_TimeBar\\spr_TimeBar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
