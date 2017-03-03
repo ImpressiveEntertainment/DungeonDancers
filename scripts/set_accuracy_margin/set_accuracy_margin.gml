@@ -2,7 +2,7 @@
 /// @arg {real} BPM
 
 var _current_BPM  = argument0;
-var _base_accuray = .2;
+var _base_accuray = .3;
 var _base_BPM     = 120;
 
 var _accuracy_margin = (_current_BPM * _base_accuray) / _base_BPM;

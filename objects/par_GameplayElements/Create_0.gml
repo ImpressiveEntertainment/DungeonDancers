@@ -1,10 +1,12 @@
 /// @description OBJECT SETTINGS
 
+// GENERAL //
 image_speed = 0;
 
 OriginX = x;
 OriginY = y;
 
+// BEAT //
 BeatArray = [0, 0, 0, 0,
 			 0, 0, 0, 0,
 			 0, 0, 0, 0,

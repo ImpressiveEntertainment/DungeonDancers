@@ -14,7 +14,11 @@ if(_collision)
 	var _collisionObjParentInd  = object_get_parent(_collisionObjInd);
 	var _collisionObjParentName = object_get_name(_collisionObjParentInd);
 	
-	trace("Collision with ", _collisionObjName);
+	if(_collisionObjID.IsActive == true)
+		//trace("Player is dead!");
+		event_user(0);
+	//else
+		//trace("Collision with ", _collisionObjName);
 }
-else
-	trace("Player is safe!!!");	
+//else
+	//trace("Player is safe!!!");	
