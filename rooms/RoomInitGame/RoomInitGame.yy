@@ -9,7 +9,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "8de5219b-ebf0-440c-bcb9-9008ef372684"
+        "8de5219b-ebf0-440c-bcb9-9008ef372684",
+        "244ae190-eaf1-4abe-b9c5-8365192c2dfc"
     ],
     "layers": [
         {
@@ -55,6 +56,30 @@
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_10B5AA0C",
                     "objId": "a488034a-f199-4a45-965a-e05a4dbf94e9",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "244ae190-eaf1-4abe-b9c5-8365192c2dfc",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_40339BE3",
+                    "x": 32,
+                    "y": 0,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_40339BE3",
+                    "objId": "e8baf275-cdc2-492b-831d-de667f694608",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -125,7 +150,7 @@
         "mvc": "1.0",
         "clearDisplayBuffer": true,
         "clearViewBackground": false,
-        "enableViews": false,
+        "enableViews": true,
         "inheritViewSettings": false
     },
     "views": [
@@ -140,7 +165,7 @@
             "inherit": false,
             "objId": "00000000-0000-0000-0000-000000000000",
             "vborder": 32,
-            "visible": false,
+            "visible": true,
             "vspeed": -1,
             "wport": 1280,
             "wview": 1280,
