@@ -4,5 +4,5 @@
 // --- Game resolution ---
 // Llegirà un arxiu de config.ini general del joc
 
-// --- Goto Game_3 ---
+// --- Goto Game_4 ---
 room_goto_next();
