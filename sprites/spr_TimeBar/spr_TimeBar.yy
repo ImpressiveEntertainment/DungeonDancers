@@ -8,7 +8,7 @@
     "VTile": false,
     "bbox_bottom": 15,
     "bbox_left": 0,
-    "bbox_right": 1,
+    "bbox_right": 3,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -61,7 +61,7 @@
     "swfPrecision": 2.525,
     "textureGroup": 0,
     "type": 0,
-    "width": 2,
+    "width": 4,
     "xorig": 0,
     "yorig": 0
 }
