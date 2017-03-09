@@ -4,5 +4,9 @@
 // --- Game resolution ---
 // Llegirà un arxiu de config.ini general del joc
 
-// --- Goto Game_2 ---
+// --- LOAD game ----
+// Quan hi hagi una acció de càrrega de partida, legirà les dades de partida per inicialitzar-les
+score = 0;
+
+// --- Goto Game_4 ---
 room_goto_next();
