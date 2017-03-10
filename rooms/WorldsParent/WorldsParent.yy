@@ -125,7 +125,7 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -137,7 +137,7 @@
             "m_serialiseFrozen": false,
             "name": "DungeonEvents",
             "userdefined_depth": false,
-            "visible": false,
+            "visible": true,
             "instances": [
                 {
                     "id": "e2429907-fbce-4c41-b17a-3305a15e4de9",
