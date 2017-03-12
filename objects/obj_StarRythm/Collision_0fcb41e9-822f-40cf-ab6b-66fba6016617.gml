@@ -1,5 +1,5 @@
 /// @description SCORE UP AND DESTROY
 
 score += value;
-myMsg = instance_create_layer(x,y,"HUD",obj_FlyMessage);
+float_message("+" + string(value), -30, 0);
 instance_destroy();

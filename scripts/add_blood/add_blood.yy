@@ -1,8 +1,8 @@
 {
-    "id": "99c01585-bb89-4207-a142-a49a481f5c62",
+    "id": "bf064f15-2ac4-4e17-98f2-0c9da665e05d",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "player_move",
+    "name": "add_blood",
     "IsCompatibility": false,
     "IsDnD": false
 }
