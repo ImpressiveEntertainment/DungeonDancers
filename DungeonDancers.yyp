@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "462192d7-b564-48f9-b8ea-609634243e78",
+            "Value": {
+                "id": "516143cf-0db9-4325-90e9-593bcff5ac63",
+                "resourcePath": "notes\\compatibility_report_100317_115503553.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "466998c3-b232-4b69-8461-f6bdd4e59e5b",
             "Value": {
                 "id": "9986031e-1f08-46f9-a769-5d77a3e3f6ac",
@@ -671,6 +679,14 @@
             }
         },
         {
+            "Key": "b30782f3-d59b-4c73-b92b-71d6f9eca977",
+            "Value": {
+                "id": "316ea635-7213-4feb-aef0-217e9eab7170",
+                "resourcePath": "objects\\obj_Fever\\obj_Fever.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b414f95a-d55e-4493-86ef-79a4b1301ec8",
             "Value": {
                 "id": "2dd15fb3-4fe1-43aa-ac7f-3b263c9d1811",
@@ -722,7 +738,7 @@
             "Key": "bcdaf237-66a5-4d44-9899-4f7a76794e8a",
             "Value": {
                 "id": "d0ee45d4-f383-42a7-af82-90e5449d36cb",
-                "resourcePath": "rooms\\WorldsParent\\WorldsParent.yy",
+                "resourcePath": "rooms\\TestProgression\\TestProgression.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -860,6 +876,14 @@
                 "id": "a0af6fdf-3562-41e7-a2e1-83a00c668825",
                 "resourcePath": "views\\ddbea9e6-fac3-4eb4-94b0-f39e3952d1ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dea4fa02-745e-4c1a-a199-59c9b7fca890",
+            "Value": {
+                "id": "1f10cd7d-3991-41e5-9f70-b107b914cdcb",
+                "resourcePath": "rooms\\WorldParent\\WorldParent.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

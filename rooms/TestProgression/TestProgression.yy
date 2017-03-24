@@ -2,7 +2,7 @@
     "id": "bcdaf237-66a5-4d44-9899-4f7a76794e8a",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "WorldsParent",
+    "name": "TestProgression",
     "IsDnD": false,
     "creationCodeFile": "",
     "inheritCode": false,
@@ -30,7 +30,8 @@
         "157efe69-0620-4376-a687-d5f979a38b95",
         "407ed522-f7e0-4c51-b17a-7d44d88d7174",
         "651d62fa-fbb7-41de-98f7-690ad5fa50d8",
-        "89350fd1-ab8c-4924-94f9-9612f0fedf24"
+        "89350fd1-ab8c-4924-94f9-9612f0fedf24",
+        "344783e5-f22d-4607-b841-8a0b51c2cfdf"
     ],
     "layers": [
         {
@@ -100,6 +101,30 @@
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_4E015AD0",
                     "objId": "a9389156-87cf-4190-80b1-545cfe6a1c7c",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "344783e5-f22d-4607-b841-8a0b51c2cfdf",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_229F7C79",
+                    "x": 464,
+                    "y": 48,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_229F7C79",
+                    "objId": "b30782f3-d59b-4c73-b92b-71d6f9eca977",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
