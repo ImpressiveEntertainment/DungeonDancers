@@ -1,4 +1,5 @@
 /// @description SCORE UP AND DESTROY
 
-score += 10;
+score += value;
+float_message("+" + string(value), -30, 0);
 instance_destroy();

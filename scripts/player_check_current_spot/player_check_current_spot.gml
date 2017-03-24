@@ -15,8 +15,13 @@ if(_collision)
 	var _collisionObjParentName = object_get_name(_collisionObjParentInd);
 	
 	if(_collisionObjID.IsActive == true)
+	{
 		//trace("Player is dead!");
+		// Efecte de sang en colisionar contra trampa de punxes
+		if _collisionObjName = "obj_SpikeTrap"
+			add_blood(5,irandom_range(-10,10),irandom_range(-10,10),random_range(1.5,0.5),c_red,random_range(0.95,0.5),room_speed*3);
 		event_user(0);
+	}
 	//else
 		//trace("Collision with ", _collisionObjName);
 }
