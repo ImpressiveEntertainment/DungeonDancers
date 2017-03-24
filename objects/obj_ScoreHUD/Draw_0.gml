@@ -1,2 +1,2 @@
 /// @description DRAW SCORE
-draw_text(x, y, "Rythm talent: " + string(score));
+draw_text(x, y, "Treasures found: " + string(score));

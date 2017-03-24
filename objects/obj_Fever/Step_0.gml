@@ -2,13 +2,13 @@
 
 if(global.EDITION_MODE == false)
 {
-	if DungeonTime > 0
-		DungeonTime -= global.dt_steady;
+	if Fever > 0
+		Fever -= global.dt_steady/4;
 	else
 	{
 		print("Game over!");
 		room_restart();
 	}
 }
-
-DungeonTime = clamp(DungeonTime, 0, DungeonCloseTime);
+	
+FeverPercent = percent(Fever, FeverMax);

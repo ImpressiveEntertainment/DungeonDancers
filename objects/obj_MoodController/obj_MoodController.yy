@@ -1,38 +1,48 @@
 {
-    "id": "b414f95a-d55e-4493-86ef-79a4b1301ec8",
+    "id": "ca3e0f33-a09e-4010-a91b-94cd6d8d9328",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_DungeonTimer",
+    "name": "obj_MoodController",
     "eventList": [
         {
-            "id": "a48e07ed-0398-450e-9472-efc81bf78e3d",
+            "id": "0d091200-ad64-45ac-b69d-f6b1049c8141",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "b414f95a-d55e-4493-86ef-79a4b1301ec8"
+            "m_owner": "ca3e0f33-a09e-4010-a91b-94cd6d8d9328"
         },
         {
-            "id": "dde24f3c-2d6f-4f91-8bdb-70d476c51aa3",
+            "id": "6d07cf2e-5018-4591-86c2-dac12ed257b7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "b414f95a-d55e-4493-86ef-79a4b1301ec8"
+            "m_owner": "ca3e0f33-a09e-4010-a91b-94cd6d8d9328"
         },
         {
-            "id": "d076d7d2-52ee-4411-9b8a-cbd065ce309e",
+            "id": "bb8a761e-8eba-45ff-82ef-0ce7906c5fd4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "b414f95a-d55e-4493-86ef-79a4b1301ec8"
+            "m_owner": "ca3e0f33-a09e-4010-a91b-94cd6d8d9328"
+        },
+        {
+            "id": "f968cf1b-9ccf-47fc-9e9d-38872fa1dbe8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "ca3e0f33-a09e-4010-a91b-94cd6d8d9328"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +63,6 @@
     ],
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "a2941d7a-f454-4cbc-9487-d6f99046da7e",
+    "spriteId": "642c9ad0-5d3f-446e-ac9d-5bf9cafb15b1",
     "visible": true
 }

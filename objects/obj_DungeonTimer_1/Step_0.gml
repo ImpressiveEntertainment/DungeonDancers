@@ -10,5 +10,5 @@ if(global.EDITION_MODE == false)
 		room_restart();
 	}
 }
-
-DungeonTime = clamp(DungeonTime, 0, DungeonCloseTime);
+	
+DungeonTimePercent = percent(DungeonTime, DungeonCloseTime);
