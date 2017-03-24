@@ -271,14 +271,6 @@
             }
         },
         {
-            "Key": "32bbbc3c-77bf-42a2-929b-c9532d2c8601",
-            "Value": {
-                "id": "5153da40-7622-4e1e-b797-511d4c37925b",
-                "resourcePath": "objects\\obj_FloatingMessage\\obj_FloatingMessage.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "32fdb3b1-6b05-4710-9a5c-703372b9ced5",
             "Value": {
                 "id": "35f45b6b-1840-47a5-9484-c763314bfae2",
