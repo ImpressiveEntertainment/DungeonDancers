@@ -2,7 +2,7 @@
     "id": "32bbbc3c-77bf-42a2-929b-c9532d2c8601",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_FlyMessage",
+    "name": "obj_FloatingMessage",
     "eventList": [
         {
             "id": "1608cba1-96a8-4271-a36d-d93fb0fa0d8a",
