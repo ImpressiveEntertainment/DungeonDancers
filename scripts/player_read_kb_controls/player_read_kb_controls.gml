@@ -2,8 +2,8 @@
 
 if(keyboard_key)
 {
-	var _upKey		= keyboard_check_pressed(vk_up);
-	var _rightKey	= keyboard_check_pressed(vk_right);
+	var _upKey			= keyboard_check_pressed(vk_up);
+	var _rightKey		= keyboard_check_pressed(vk_right);
 	var _downKey		= keyboard_check_pressed(vk_down);
 	var _leftKey		= keyboard_check_pressed(vk_left);
 	

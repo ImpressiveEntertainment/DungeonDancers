@@ -7,7 +7,7 @@ BeatArray = [1, 0, 0, 0,
 			 1, 0, 0, 0,
 			 1, 0, 0, 0];
 
-PlayerStepLenght = sprite_width * 2;
+PlayerStepLenght = sprite_width;
 
 RythmMax			= 100;					// Temps màxim en segons
 Rythm				= 30;			// Temps a actualitzar
@@ -26,3 +26,6 @@ NICE		= 11;
 PERFECT		= 11;
 
 StepPerfection = GOOD;
+
+Facing = 1;
+DisplacementY = -10;

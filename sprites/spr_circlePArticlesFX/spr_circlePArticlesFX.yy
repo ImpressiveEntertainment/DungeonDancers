@@ -2,7 +2,7 @@
     "id": "0c735244-fab5-495a-a4b4-ee89eadfdb91",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_circlePArticlesFX",
+    "name": "spr_circleParticlesFX",
     "For3D": false,
     "HTile": false,
     "VTile": false,

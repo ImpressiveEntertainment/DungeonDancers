@@ -19,7 +19,7 @@ if(_collision)
 		//trace("Player is dead!");
 		// Efecte de sang en colisionar contra trampa de punxes
 		if _collisionObjName = "obj_SpikeTrap"
-			add_blood(5,irandom_range(-10,10),irandom_range(-10,10),random_range(1.5,0.5),c_red,random_range(0.95,0.5),room_speed*3);
+			add_blood(5, x, y, 10, 10, random_range(1.5,0.5), c_red, random_range(0.95,0.5), depth + 1, room_speed*3, false);
 		event_user(0);
 	}
 	//else

@@ -7,6 +7,9 @@ if vanish
 	alpha = lerp(alpha, 0, 0.05);
 else
 	alpha = lerp(alpha, 0.25, 0.01);
+
+if decrease
+	size = lerp(size, 0, 0.05);
 	
 // Destroy
 if alpha <= 0
