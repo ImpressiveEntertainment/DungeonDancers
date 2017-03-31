@@ -34,6 +34,7 @@ switch (_direction)
 
 var _placeX    = x + (PlayerStepLenght * _dirX) + 1;
 var _placeY    = y + (PlayerStepLenght * _dirY) + 1;
+
 var _collision = place_meeting(_placeX, _placeY, _collisionObjects);
 
 if(!_collision)

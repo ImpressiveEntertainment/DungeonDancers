@@ -28,4 +28,4 @@ PERFECT		= 11;
 StepPerfection = GOOD;
 
 Facing = 1;
-DisplacementY = -10;
+DisplacementY = -10;		// Apliquem un petit desplaçament vertical a l'sprite del Player per millorar la seva perpectiva en el joc

@@ -295,6 +295,22 @@
             }
         },
         {
+            "Key": "30ced1d6-cb77-472e-946c-93333aee2b0d",
+            "Value": {
+                "id": "302868a9-0f50-47ac-8b60-782a7737fe61",
+                "resourcePath": "views\\30ced1d6-cb77-472e-946c-93333aee2b0d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "327a0993-01f3-4b48-845b-d017ce1b5b3c",
+            "Value": {
+                "id": "3ccacf6b-ccea-4fd7-b1e0-02b0215b54df",
+                "resourcePath": "scripts\\UsesNumericSpringing\\UsesNumericSpringing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "32a6ff73-a621-4655-80e5-0f60e4fce6a7",
             "Value": {
                 "id": "a2f9ee51-156b-4b79-a897-675db96495ee",
@@ -671,6 +687,14 @@
             }
         },
         {
+            "Key": "89e6c578-c3d6-4264-b6df-cb6e1ac6a2cf",
+            "Value": {
+                "id": "497e65ee-3395-4a6c-8d8b-b9dfc7e83237",
+                "resourcePath": "scripts\\draw_text_outlined\\draw_text_outlined.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8bcebcb6-d0a1-47f2-be1c-2dec95580d14",
             "Value": {
                 "id": "86f12e55-8ae6-4747-978a-fadec6aeadc7",
@@ -903,6 +927,14 @@
             }
         },
         {
+            "Key": "c75a02c9-2fc7-4ea5-8a58-861e612dde2d",
+            "Value": {
+                "id": "78e61674-d8b0-4230-9352-660bfee6b694",
+                "resourcePath": "scripts\\CleanMemNumericSpringing\\CleanMemNumericSpringing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ca3e0f33-a09e-4010-a91b-94cd6d8d9328",
             "Value": {
                 "id": "c6884abe-8b8e-445f-b177-a1ad9865b495",
@@ -1087,6 +1119,14 @@
             }
         },
         {
+            "Key": "e82b8e61-1578-433b-9f81-0d2209a74f29",
+            "Value": {
+                "id": "14d8074a-2eb4-4cc7-bf5a-8c3b7bd13226",
+                "resourcePath": "scripts\\Spring\\Spring.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e8baf275-cdc2-492b-831d-de667f694608",
             "Value": {
                 "id": "a516f091-c529-495c-a4ad-ba06e672ff44",
@@ -1191,6 +1231,10 @@
         "20dadcb8-7130-41ab-a3df-2fcde7690c18",
         "bf064f15-2ac4-4e17-98f2-0c9da665e05d",
         "2e4cfbb1-e2c1-43fc-bf64-469adcf850e7",
+        "89e6c578-c3d6-4264-b6df-cb6e1ac6a2cf",
+        "327a0993-01f3-4b48-845b-d017ce1b5b3c",
+        "e82b8e61-1578-433b-9f81-0d2209a74f29",
+        "c75a02c9-2fc7-4ea5-8a58-861e612dde2d",
         "9e79de3d-2c2a-4e41-9cfb-e875cd47c636",
         "12ac5816-d099-424a-804d-8c111bb8f3aa",
         "4059ea5b-3b51-4770-a6d5-746d5114e691",
