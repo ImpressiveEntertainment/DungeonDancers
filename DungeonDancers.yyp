@@ -663,6 +663,14 @@
             }
         },
         {
+            "Key": "853bdf36-1511-4c7b-a11f-fab27dd010c0",
+            "Value": {
+                "id": "8c4eedb1-f5ce-4418-b1f7-f6a6d6560c99",
+                "resourcePath": "objects\\obj_metronom\\obj_metronom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8696f692-0b36-4c18-8e20-c47d622a12b1",
             "Value": {
                 "id": "26857d8f-4ca8-46b2-8a83-7ef7721e8418",
@@ -692,6 +700,14 @@
                 "id": "497e65ee-3395-4a6c-8d8b-b9dfc7e83237",
                 "resourcePath": "scripts\\draw_text_outlined\\draw_text_outlined.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8a9cf520-836a-45e7-bb13-f46c31df7617",
+            "Value": {
+                "id": "8c877a37-081d-492f-bce6-7b057d640fbc",
+                "resourcePath": "sprites\\spr_metronom\\spr_metronom.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
