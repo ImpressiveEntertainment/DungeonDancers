@@ -2,10 +2,10 @@
 
 if(keyboard_key)
 {
-	var _upKey			= keyboard_check_pressed(vk_up);
-	var _rightKey		= keyboard_check_pressed(vk_right);
-	var _downKey		= keyboard_check_pressed(vk_down);
-	var _leftKey		= keyboard_check_pressed(vk_left);
+	var _upKey			= keyboard_check_pressed(vk_up) or gamepad_button_check_pressed(0, gp_padu);
+	var _rightKey		= keyboard_check_pressed(vk_right) or gamepad_button_check_pressed(0, gp_padr);
+	var _downKey		= keyboard_check_pressed(vk_down) or gamepad_button_check_pressed(0, gp_padd);
+	var _leftKey		= keyboard_check_pressed(vk_left) or gamepad_button_check_pressed(0, gp_padl);
 	
 	var _playerDirection = 0;
     
